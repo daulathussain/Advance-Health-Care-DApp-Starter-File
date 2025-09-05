@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2025/09/Build-Deploy-Blockchain-HealthCare-DApp-Solidity-Smart-Contract-Next.js-Web3-Health-DApp-Project.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-healthcare-dapp-or-solidity-smart-contract-+-next.js-or-web3-health-dapp-project)
 
 #### Setup Video
 
@@ -67,7 +67,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 ```
   SETUP VIDEO:
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-healthcare-dapp-or-solidity-smart-contract-+-next.js-or-web3-health-dapp-project
 ```
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
